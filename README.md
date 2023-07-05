@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sophiebicanic
-- 👀 I’m interested in Python.
+- 👀 I’m interested in Python, data, ML
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on... TBD.
+- 💞️ I’m looking to collaborate on data projects on Kaggle - @sophiebicanic
 - 📫 How to reach me @sophiebicanic on github.
 
 <!---
